@@ -1,1 +1,1 @@
-![image](https://cdn.bypixel.dev/raw/lq2eVE.png)
+![image](https://cdn.bypixel.dev/raw/tQvV5s.png)
