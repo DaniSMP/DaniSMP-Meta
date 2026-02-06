@@ -1,10 +1,10 @@
 {
     "TELEPORT.success": {
-        "de-DE": "[grey]Du hast dich [green]erfolgreich</color> zu [era_purple][target]</color> teleportiert!</color>",
-        "en-US": "[grey]You have [green]successfully</color> teleported to [era_purple][target]!</color></color>"
+        "de-DE": "[grey]Du hast dich [green]erfolgreich</color> zu [blue][target]</color> teleportiert!</color>",
+        "en-US": "[grey]You have [green]successfully</color> teleported to [blue][target]!</color></color>"
     },
     "TELEPORT.other.success": {
-        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> zu [era_purple][target]</color> teleportiert!</color>",
-        "en-US": "[grey]You have [green]successfully</color> teleported [era_purple][player]</color> to [era_purple][target]!</color></color>"
+        "de-DE": "[grey]Du hast [blue][player]</color> [green]erfolgreich</color> zu [blue][target]</color> teleportiert!</color>",
+        "en-US": "[grey]You have [green]successfully</color> teleported [blue][player]</color> to [blue][target]!</color></color>"
     }
 }

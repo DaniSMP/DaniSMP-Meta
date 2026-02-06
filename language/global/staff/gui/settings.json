@@ -36,24 +36,24 @@
         "en-US": "<!i>Join notify"
     },
     "SETTING.notify.join.lore": {
-        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand das [era_purple]Netzwerk</color> betritt!</color><br><br>[grey][state]</color>",
-        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone joins the [era_purple]network</color>!</color><br><br>[grey][state]</color>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand das [blue]Netzwerk</color> betritt!</color><br><br>[grey][state]</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone joins the [blue]network</color>!</color><br><br>[grey][state]</color>"
     },
     "SETTING.notify.serverswitch.name": {
         "de-DE": "<!i>Server switch notify",
         "en-US": "<!i>Server switch notify"
     },
     "SETTING.notify.serverswitch.lore": {
-        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand auf einen anderen [era_purple]Server</color> geht!</color><br><br>[grey][state]</color>",
-        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone switches to another [era_purple]server</color>!</color><br><br>[grey][state]</color>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand auf einen anderen [blue]Server</color> geht!</color><br><br>[grey][state]</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone switches to another [blue]server</color>!</color><br><br>[grey][state]</color>"
     },
     "SETTING.notify.quit.name": {
         "de-DE": "<!i>Quit notify",
         "en-US": "<!i>Quit notify"
     },
     "SETTING.notify.quit.lore": {
-        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand das [era_purple]Netzwerk</color> verlässt!</color><br><br>[grey][state]</color>",
-        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone leaves the [era_purple]network</color>!</color><br><br>[grey][state]</color>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand das [blue]Netzwerk</color> verlässt!</color><br><br>[grey][state]</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone leaves the [blue]network</color>!</color><br><br>[grey][state]</color>"
     },
     "SETTING.notifications.lore": {
         "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um Benachrichtigungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color><br>",

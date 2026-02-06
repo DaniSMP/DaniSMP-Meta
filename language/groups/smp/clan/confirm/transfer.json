@@ -20,15 +20,15 @@
         "en-US": "<br><i:false>[green][ARROW]</color> [grey]Transferring a clan costs [gem_purple]250 Gems</color><br><i:false>[green][ROUNDDOT]</color> [grey]Click to [green]confirm</color></color><br>"
     },
     "CLAN.gui.confirm.transfer.click.no.money": {
-        "de-DE": "<i:false>[red]Du hast [red]nicht</color> genug [gem_purple]Gems</color> um deinen [era_purple]Clan</color> an jemand anderen zu übertragen!</color>",
-        "en-US": "<i:false>[red]You do [red]not</color> have enough [gem_purple]Gems</color> to transfer your [era_purple]Clan</color> to someone else!</color>"
+        "de-DE": "<i:false>[red]Du hast [red]nicht</color> genug [gem_purple]Gems</color> um deinen [blue]Clan</color> an jemand anderen zu übertragen!</color>",
+        "en-US": "<i:false>[red]You do [red]not</color> have enough [gem_purple]Gems</color> to transfer your [blue]Clan</color> to someone else!</color>"
     },
     "CLAN.gui.confirm.transfer.click.success": {
-        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> an [era_purple][player]</color> übertragen!</color>",
-        "en-US": "[grey]You have successfully transferred the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to [era_purple][player]!</color></color>"
+        "de-DE": "[grey]Du hast den Clan [blue][name]#[tagline]</color> ([blue][id]</color>) [green]erfolgreich</color> an [blue][player]</color> übertragen!</color>",
+        "en-US": "[grey]You have successfully transferred the clan [blue][name]#[tagline]</color> ([blue][id]</color>) to [blue][player]!</color></color>"
     },
     "CLAN.gui.confirm.transfer.click.success.target": {
-        "de-DE": "[grey][era_purple][player]</color> hat den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) an dich übertragen!</color>",
-        "en-US": "[grey][era_purple][player]</color> has transferred the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to you!</color></color>"
+        "de-DE": "[grey][blue][player]</color> hat den Clan [blue][name]#[tagline]</color> ([blue][id]</color>) an dich übertragen!</color>",
+        "en-US": "[grey][blue][player]</color> has transferred the clan [blue][name]#[tagline]</color> ([blue][id]</color>) to you!</color></color>"
     }
 }

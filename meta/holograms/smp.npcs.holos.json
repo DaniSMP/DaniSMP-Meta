@@ -138,8 +138,8 @@
         "scale-z": "1.0"
     },
     "holo.npc.ranks.spawn.1": {
-        "de-DE": "<b>[eramc_gradient]RANG SHOP</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
-        "en-US": "<b>[eramc_gradient]RANK SHOP</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "de-DE": "<b>[danismp_gradient]RANG SHOP</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[danismp_gradient]RANK SHOP</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
         "location": {
             "x": 20349.500,
             "y": 225,
@@ -161,8 +161,8 @@
         "scale-z": "1.0"
     },
     "holo.npc.ranks.spawn.2": {
-        "de-DE": "<b>[eramc_gradient]RANG SHOP</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
-        "en-US": "<b>[eramc_gradient]RANK SHOP</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "de-DE": "<b>[danismp_gradient]RANG SHOP</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[danismp_gradient]RANK SHOP</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
         "location": {
             "x": -20022.500,
             "y": 219,

@@ -4,27 +4,27 @@
         "en-US": "<!i>Clan Joinrequests"
     },
     "GUI.nav.pagination.previous": {
-        "de-DE": "<i:false>[era_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[era_purple]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+        "de-DE": "<i:false>[blue]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
     },
     "GUI.nav.pagination.next": {
-        "de-DE": "<i:false>[era_purple]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[era_purple]ɴᴇxᴛ ᴘᴀɢᴇ"
+        "de-DE": "<i:false>[blue]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ɴᴇxᴛ ᴘᴀɢᴇ"
     },
     "GUI.nav.pagination.navigate.lore": {
-        "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
-        "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to navigate<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to navigate<br><i:false>"
     },
     "GUI.nav.pagination.update": {
-        "de-DE": "<i:false>[era_purple]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
-        "en-US": "<i:false>[era_purple]ᴜᴘᴅᴀᴛᴇ"
+        "de-DE": "<i:false>[blue]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[blue]ᴜᴘᴅᴀᴛᴇ"
     },
     "GUI.nav.pagination.update.lore": {
-        "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
-        "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to update the page<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to update the page<br><i:false>"
     },
     "GUI.player.lore": {
-        "de-DE": "<br><i:false>[era_purple][ROUNDDOT]</color> [grey][era_purple]Linksklick</color> um die [era_purple]Beitrittsanfrage</color> [green]anzunehmen</color></color><br><i:false>[era_purple][ROUNDDOT]</color> [grey][era_purple]Rechtsklick</color> um die [era_purple]Beitrittsanfrage</color> [red]abzulehnen</color></color><br>",
-        "en-US": "<br><i:false>[era_purple][ROUNDDOT]</color> [grey][era_purple]Left Click</color> to [green]accept</color> the [era_purple]join request</color></color><br><i:false>[era_purple][ROUNDDOT]</color> [grey][era_purple]Right Click</color> to [red]decline</color> the [era_purple]join request</color></color><br>"
+        "de-DE": "<br><i:false>[blue][ROUNDDOT]</color> [grey][blue]Linksklick</color> um die [blue]Beitrittsanfrage</color> [green]anzunehmen</color></color><br><i:false>[blue][ROUNDDOT]</color> [grey][blue]Rechtsklick</color> um die [blue]Beitrittsanfrage</color> [red]abzulehnen</color></color><br>",
+        "en-US": "<br><i:false>[blue][ROUNDDOT]</color> [grey][blue]Left Click</color> to [green]accept</color> the [blue]join request</color></color><br><i:false>[blue][ROUNDDOT]</color> [grey][blue]Right Click</color> to [red]decline</color> the [blue]join request</color></color><br>"
     }
 }

@@ -1,15 +1,15 @@
 {
     "PAY.error.not.enough.gems": {
-        "de-DE": "[grey]Du hast [red]nicht</color> genug [gem_purple]Gems,</color> um [era_purple][player]</color> [gem_purple][STAR] [amount]</color> überwiesen!</color>",
+        "de-DE": "[grey]Du hast [red]nicht</color> genug [gem_purple]Gems,</color> um [blue][player]</color> [gem_purple][STAR] [amount]</color> überwiesen!</color>",
         "en-US": "[grey]You [red]do not</color> have enough [gem_purple]gems</color> to do that!</color>"
     },
     "PAY.success": {
-        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> [gem_purple][STAR] [amount]</color> überwiesen!</color>",
-        "en-US": "[grey]You have [green]sucessfully</color> payed [era_purple][player]</color> [gem_purple][STAR] [amount]!</color></color>"
+        "de-DE": "[grey]Du hast [blue][player]</color> [green]erfolgreich</color> [gem_purple][STAR] [amount]</color> überwiesen!</color>",
+        "en-US": "[grey]You have [green]sucessfully</color> payed [blue][player]</color> [gem_purple][STAR] [amount]!</color></color>"
     },
     "PAY.success.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat dir [gem_purple][STAR] [amount]</color> überwiesen!</color>",
-        "en-US": "[grey][era_purple][player]</color> has payed you [gem_purple][STAR] [amount]</color>!</color>"
+        "de-DE": "[grey][blue][player]</color> hat dir [gem_purple][STAR] [amount]</color> überwiesen!</color>",
+        "en-US": "[grey][blue][player]</color> has payed you [gem_purple][STAR] [amount]</color>!</color>"
     },
     "PAY.error.min": {
         "de-DE": "[grey]Du musst mindestens [gem_purple][STAR] [amount]</color> überweisen!</color>",

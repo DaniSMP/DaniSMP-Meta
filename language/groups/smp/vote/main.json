@@ -1,14 +1,14 @@
 {
     "VOTE.self.notify": {
-        "de-DE": "[grey]Danke für deinen [era_purple]Vote!</color> Als [yellow]Belohnung</color> erhältst du [gem_purple][STAR] 50 Gems</color> und <color:#fc4c6c>2 Cherry Keys!</color></color>",
-        "en-US": "[grey]Thank you for your [era_purple]vote!</color> As a [yellow]reward</color>, you receive [gem_purple][STAR] 50 Gems</color> and <color:#fc4c6c>2 Cherry Keys!</color></color>"
+        "de-DE": "[grey]Danke für deinen [blue]Vote!</color> Als [yellow]Belohnung</color> erhältst du [gem_purple][STAR] 50 Gems</color> und <color:#fc4c6c>2 Cherry Keys!</color></color>",
+        "en-US": "[grey]Thank you for your [blue]vote!</color> As a [yellow]reward</color>, you receive [gem_purple][STAR] 50 Gems</color> and <color:#fc4c6c>2 Cherry Keys!</color></color>"
     },
     "VOTE.global.notify": {
-        "de-DE": "<br>[prefix] [grey][era_purple][player]</color> hat für den Server [era_purple]abgestimmt</color> und sich eine [green]kostenlose</color> [yellow]Belohnung</color> abgeholt! [grey]<click:run_command:'/vote'>(<u>/vote</u>)</click></color></color><br>",
-        "en-US": "<br>[prefix] [grey][era_purple][player]</color> has [era_purple]voted</color> for the server and claimed a [green]free</color> [yellow]reward</color>! [grey]<click:run_command:'/vote'>(<u>/vote</u>)</click></color></color><br>"
+        "de-DE": "<br>[prefix] [grey][blue][player]</color> hat für den Server [blue]abgestimmt</color> und sich eine [green]kostenlose</color> [yellow]Belohnung</color> abgeholt! [grey]<click:run_command:'/vote'>(<u>/vote</u>)</click></color></color><br>",
+        "en-US": "<br>[prefix] [grey][blue][player]</color> has [blue]voted</color> for the server and claimed a [green]free</color> [yellow]reward</color>! [grey]<click:run_command:'/vote'>(<u>/vote</u>)</click></color></color><br>"
     },
     "VOTE.command.info": {
-        "de-DE": "[grey]Wenn du für den Server [era_purple]abstimmst</color>, erhältst du eine [green]kostenlose</color> [yellow]Belohnung!</color> Du kannst [blue]<click:open_url:'https://minecraft-server.eu/vote/index/23490'>hier klicken</click></color> um für [era_purple]EraMC.net</color> zu [era_purple]voten!</color></color>",
-        "en-US": "[grey]When you [era_purple]vote</color> for the server, you receive a [green]free</color> [yellow]reward!</color> You can [blue]<click:open_url:'https://minecraft-server.eu/vote/index/23490'>click here</click></color> to [era_purple]vote for EraMC.net</color>!</color></color>"
+        "de-DE": "[grey]Wenn du für den Server [blue]abstimmst</color>, erhältst du eine [green]kostenlose</color> [yellow]Belohnung!</color> Du kannst [blue]<click:open_url:'https://minecraft-server.eu/vote/index/23490'>hier klicken</click></color> um für [blue]DaniSMP.net</color> zu [blue]voten!</color></color>",
+        "en-US": "[grey]When you [blue]vote</color> for the server, you receive a [green]free</color> [yellow]reward!</color> You can [blue]<click:open_url:'https://minecraft-server.eu/vote/index/23490'>click here</click></color> to [blue]vote for DaniSMP.net</color>!</color></color>"
     }
 }

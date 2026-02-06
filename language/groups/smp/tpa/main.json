@@ -1,115 +1,115 @@
 {
     "TPA.request.send": {
-        "de-DE": "[grey]Du hast eine [era_purple]TPA</color> an [era_purple][player]</color> gesendet!</color>",
-        "en-US": "[grey]You've sent a [era_purple]TPA</color> request to [era_purple][player]!</color></color>"
+        "de-DE": "[grey]Du hast eine [blue]TPA</color> an [blue][player]</color> gesendet!</color>",
+        "en-US": "[grey]You've sent a [blue]TPA</color> request to [blue][player]!</color></color>"
     },
     "TPAHERE.request.send": {
-        "de-DE": "[grey]Du hast eine [era_purple]TPA here</color> an [era_purple][player]</color> gesendet!</color>",
-        "en-US": "[grey]You've sent a [era_purple]TPA here</color> request to [era_purple][player]!</color></color>"
+        "de-DE": "[grey]Du hast eine [blue]TPA here</color> an [blue][player]</color> gesendet!</color>",
+        "en-US": "[grey]You've sent a [blue]TPA here</color> request to [blue][player]!</color></color>"
     },
     "TPA.request.receive": {
-        "de-DE": "[grey][era_purple][player]</color> hat dir eine [era_purple]TPA</color> gesendet!<br>                         [green]<b><click:run_command:'/tpaccept [player]'>[ANNEHMEN]</click></b></color> - [red]<b><click:run_command:'/tpdeny [player]'>[ABLEHNEN]</click></b></color></color>",
-        "en-US": "[grey][era_purple][player]</color> has sent you a [era_purple]TPA!</color><br>                         [green]<b><click:run_command:'/tpaccept [player]'>[ACCEPT]</click></b></color> - [red]<b><click:run_command:'/tpdeny [player]'>[DENY]</click></b></color></color>"
+        "de-DE": "[grey][blue][player]</color> hat dir eine [blue]TPA</color> gesendet!<br>                         [green]<b><click:run_command:'/tpaccept [player]'>[ANNEHMEN]</click></b></color> - [red]<b><click:run_command:'/tpdeny [player]'>[ABLEHNEN]</click></b></color></color>",
+        "en-US": "[grey][blue][player]</color> has sent you a [blue]TPA!</color><br>                         [green]<b><click:run_command:'/tpaccept [player]'>[ACCEPT]</click></b></color> - [red]<b><click:run_command:'/tpdeny [player]'>[DENY]</click></b></color></color>"
     },
     "TPAHERE.request.receive": {
-        "de-DE": "[grey][era_purple][player]</color> hat dir eine [era_purple]TPA here</color> gesendet!<br>                         [green]<b><click:run_command:'/tpaccept [player]'>[ANNEHMEN]</click></b></color> - [red]<b><click:run_command:'/tpdeny [player]'>[ABLEHNEN]</click></b></color></color>",
-        "en-US": "[grey][era_purple][player]</color> has sent you a [era_purple]TPA here!</color><br>                         [green]<b><click:run_command:'/tpaccept [player]'>[ACCEPT]</click></b></color> - [red]<b><click:run_command:'/tpdeny [player]'>[DENY]</click></b></color></color>"
+        "de-DE": "[grey][blue][player]</color> hat dir eine [blue]TPA here</color> gesendet!<br>                         [green]<b><click:run_command:'/tpaccept [player]'>[ANNEHMEN]</click></b></color> - [red]<b><click:run_command:'/tpdeny [player]'>[ABLEHNEN]</click></b></color></color>",
+        "en-US": "[grey][blue][player]</color> has sent you a [blue]TPA here!</color><br>                         [green]<b><click:run_command:'/tpaccept [player]'>[ACCEPT]</click></b></color> - [red]<b><click:run_command:'/tpdeny [player]'>[DENY]</click></b></color></color>"
     },
     "TPA.request.accept": {
-        "de-DE": "[grey]Du hast die [era_purple]TPA</color> von [era_purple][player]</color> angenommen!</color>",
-        "en-US": "[grey]You've accepted the [era_purple]TPA</color> from [era_purple][player]!</color>"
+        "de-DE": "[grey]Du hast die [blue]TPA</color> von [blue][player]</color> angenommen!</color>",
+        "en-US": "[grey]You've accepted the [blue]TPA</color> from [blue][player]!</color>"
     },
     "TPAHERE.request.accept": {
-        "de-DE": "[grey]Du hast die [era_purple]TPA here</color> von [era_purple][player]</color> angenommen!</color>",
-        "en-US": "[grey]You've accepted the [era_purple]TPA here</color> from [era_purple][player]!</color>"
+        "de-DE": "[grey]Du hast die [blue]TPA here</color> von [blue][player]</color> angenommen!</color>",
+        "en-US": "[grey]You've accepted the [blue]TPA here</color> from [blue][player]!</color>"
     },
     "TPA.request.accept.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA</color> angenommen!</color>",
-        "en-US": "[grey][era_purple][player]</color> has accepted your [era_purple]TPA</color>!</color>"
+        "de-DE": "[grey][blue][player]</color> hat deine [blue]TPA</color> angenommen!</color>",
+        "en-US": "[grey][blue][player]</color> has accepted your [blue]TPA</color>!</color>"
     },
     "TPAHERE.request.accept.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA here</color> angenommen!</color>",
-        "en-US": "[grey][era_purple][player]</color> has accepted your [era_purple]TPA here</color>!</color>"
+        "de-DE": "[grey][blue][player]</color> hat deine [blue]TPA here</color> angenommen!</color>",
+        "en-US": "[grey][blue][player]</color> has accepted your [blue]TPA here</color>!</color>"
     },
     "TPA.request.deny": {
-        "de-DE": "[grey]Du hast die [era_purple]TPA</color> von [era_purple][player]</color> abgelehnt!</color>",
-        "en-US": "[grey]You've denied the [era_purple]TPA</color> from [era_purple][player]!</color>"
+        "de-DE": "[grey]Du hast die [blue]TPA</color> von [blue][player]</color> abgelehnt!</color>",
+        "en-US": "[grey]You've denied the [blue]TPA</color> from [blue][player]!</color>"
     },
     "TPAHERE.request.deny": {
-        "de-DE": "[grey]Du hast die [era_purple]TPA here</color> von [era_purple][player]</color> abgelehnt!</color>",
-        "en-US": "[grey]You've denied the [era_purple]TPA here</color> from [era_purple][player]!</color>"
+        "de-DE": "[grey]Du hast die [blue]TPA here</color> von [blue][player]</color> abgelehnt!</color>",
+        "en-US": "[grey]You've denied the [blue]TPA here</color> from [blue][player]!</color>"
     },
     "TPA.request.deny.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA</color> abgelehnt!</color>",
-        "en-US": "[grey][era_purple][player]</color> has denied your [era_purple]TPA</color>!</color>"
+        "de-DE": "[grey][blue][player]</color> hat deine [blue]TPA</color> abgelehnt!</color>",
+        "en-US": "[grey][blue][player]</color> has denied your [blue]TPA</color>!</color>"
     },
     "TPAHERE.request.deny.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA here</color> abgelehnt!</color>",
-        "en-US": "[grey][era_purple][player]</color> has denied your [era_purple]TPA here</color>!</color>"
+        "de-DE": "[grey][blue][player]</color> hat deine [blue]TPA here</color> abgelehnt!</color>",
+        "en-US": "[grey][blue][player]</color> has denied your [blue]TPA here</color>!</color>"
     },
     "TPA.request.cancel": {
-        "de-DE": "[grey]Du hast die [era_purple]TPA</color> an [era_purple][player]</color> abgebrochen!</color>",
-        "en-US": "[grey]You've cancelled the [era_purple]TPA</color> to [era_purple][player]!</color>"
+        "de-DE": "[grey]Du hast die [blue]TPA</color> an [blue][player]</color> abgebrochen!</color>",
+        "en-US": "[grey]You've cancelled the [blue]TPA</color> to [blue][player]!</color>"
     },
     "TPAHERE.request.cancel": {
-        "de-DE": "[grey]Du hast die [era_purple]TPA here</color> an [era_purple][player]</color> abgebrochen!</color>",
-        "en-US": "[grey]You've cancelled the [era_purple]TPA here</color> to [era_purple][player]!</color>"
+        "de-DE": "[grey]Du hast die [blue]TPA here</color> an [blue][player]</color> abgebrochen!</color>",
+        "en-US": "[grey]You've cancelled the [blue]TPA here</color> to [blue][player]!</color>"
     },
     "TPA.request.timeout": {
-        "de-DE": "[grey]Die [era_purple]TPA</color> an [era_purple][player]</color> ist abgelaufen!</color>",
-        "en-US": "[grey]The [era_purple]TPA</color> to [era_purple][player] has expired!</color>"
+        "de-DE": "[grey]Die [blue]TPA</color> an [blue][player]</color> ist abgelaufen!</color>",
+        "en-US": "[grey]The [blue]TPA</color> to [blue][player] has expired!</color>"
     },
     "TPAHERE.request.timeout": {
-        "de-DE": "[grey]Die [era_purple]TPA here</color> an [era_purple][player]</color> ist abgelaufen!</color>",
-        "en-US": "[grey]The [era_purple]TPA here</color> to [era_purple][player] has expired!</color>"
+        "de-DE": "[grey]Die [blue]TPA here</color> an [blue][player]</color> ist abgelaufen!</color>",
+        "en-US": "[grey]The [blue]TPA here</color> to [blue][player] has expired!</color>"
     },
     "TPA.request.teleport": {
-        "de-DE": "[grey]Du wurdest zu [era_purple][player]</color> teleportiert!</color>",
-        "en-US": "[grey]You've been teleported to [era_purple][player]!</color>"
+        "de-DE": "[grey]Du wurdest zu [blue][player]</color> teleportiert!</color>",
+        "en-US": "[grey]You've been teleported to [blue][player]!</color>"
     },
     "TPAHERE.request.teleport": {
-        "de-DE": "[grey][era_purple][player]</color> wurde zu dir teleportiert!</color>",
-        "en-US": "[grey][era_purple][player]</color> has been teleported to you!</color>"
+        "de-DE": "[grey][blue][player]</color> wurde zu dir teleportiert!</color>",
+        "en-US": "[grey][blue][player]</color> has been teleported to you!</color>"
     },
     "TPA.request.already.sent": {
-        "de-DE": "[grey]Du hast bereits eine [era_purple]TPA</color> Anfrage an [era_purple][player]</color> gesendet!</color>",
-        "en-US": "[grey]You've already sent a [era_purple]TPA</color> request to [era_purple][player]!</color>"
+        "de-DE": "[grey]Du hast bereits eine [blue]TPA</color> Anfrage an [blue][player]</color> gesendet!</color>",
+        "en-US": "[grey]You've already sent a [blue]TPA</color> request to [blue][player]!</color>"
     },
     "TPAHERE.request.already.sent": {
-        "de-DE": "[grey]Du hast bereits eine [era_purple]TPA here</color> Anfrage an [era_purple][player]</color> gesendet!</color>",
-        "en-US": "[grey]You've already sent a [era_purple]TPA here</color> request to [era_purple][player]!</color>"
+        "de-DE": "[grey]Du hast bereits eine [blue]TPA here</color> Anfrage an [blue][player]</color> gesendet!</color>",
+        "en-US": "[grey]You've already sent a [blue]TPA here</color> request to [blue][player]!</color>"
     },
     "TP.request.accept.error.no.requests": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfragen</color>, die du annehmen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport requests</color> to accept!</color>"
+        "de-DE": "[grey]Du hast keine [blue]Teleport-Anfragen</color>, die du annehmen könntest!</color>",
+        "en-US": "[grey]You have no [blue]teleport requests</color> to accept!</color>"
     },
     "TP.request.accept.error.no.request": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> von [era_purple][player]</color>, die du annehmen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport request</color> from [era_purple][player]</color> to accept!</color>"
+        "de-DE": "[grey]Du hast keine [blue]Teleport-Anfrage</color> von [blue][player]</color>, die du annehmen könntest!</color>",
+        "en-US": "[grey]You have no [blue]teleport request</color> from [blue][player]</color> to accept!</color>"
     },
     "TP.request.deny.error.no.requests": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfragen</color>, die du ablehnen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport requests</color> to deny!</color>"
+        "de-DE": "[grey]Du hast keine [blue]Teleport-Anfragen</color>, die du ablehnen könntest!</color>",
+        "en-US": "[grey]You have no [blue]teleport requests</color> to deny!</color>"
     },
     "TP.request.deny.error.no.request": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> von [era_purple][player]</color>, die du ablehnen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport request</color> from [era_purple][player]</color> to deny!</color>"
+        "de-DE": "[grey]Du hast keine [blue]Teleport-Anfrage</color> von [blue][player]</color>, die du ablehnen könntest!</color>",
+        "en-US": "[grey]You have no [blue]teleport request</color> from [blue][player]</color> to deny!</color>"
     },
     "TP.request.cancel.error.no.requests": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfragen</color>, die du abbrechen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport requests</color> to cancel!</color>"
+        "de-DE": "[grey]Du hast keine [blue]Teleport-Anfragen</color>, die du abbrechen könntest!</color>",
+        "en-US": "[grey]You have no [blue]teleport requests</color> to cancel!</color>"
     },
     "TP.request.cancel.error.no.request": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> an [era_purple][player]</color> gesendet, die du abbrechen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport request</color> to [era_purple][player]</color> that you can cancel!</color>"
+        "de-DE": "[grey]Du hast keine [blue]Teleport-Anfrage</color> an [blue][player]</color> gesendet, die du abbrechen könntest!</color>",
+        "en-US": "[grey]You have no [blue]teleport request</color> to [blue][player]</color> that you can cancel!</color>"
     },
     "TP.error.move": {
         "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,</color> da du dich bewegt hast!</color>",
         "en-US": "[grey]The teleportation process was [red]cancelled</color> because you moved!</color>"
     },
     "TP.teleport.in": {
-        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
-        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [era_purple][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
+        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [blue][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [blue][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
     },
     "TP.actionbar.teleported": {
         "de-DE": "[green]ᴅᴜ ᴡᴜʀᴅᴇꜱᴛ ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
@@ -120,19 +120,19 @@
         "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
     },
     "TP.error.already.teleporting": {
-        "de-DE": "[grey]Du wirst bereits [era_purple]teleportiert!</color></color>",
-        "en-US": "[grey]You are already being [era_purple]teleported!</color></color>"
+        "de-DE": "[grey]Du wirst bereits [blue]teleportiert!</color></color>",
+        "en-US": "[grey]You are already being [blue]teleported!</color></color>"
     },
     "TPA.toggle.enabled": {
-        "de-DE": "[grey]Du hast [era_purple]Teleport-Anfragen</color> jetzt [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have [era_purple]teleport requests</color> now [green]enabled!</color></color>"
+        "de-DE": "[grey]Du hast [blue]Teleport-Anfragen</color> jetzt [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have [blue]teleport requests</color> now [green]enabled!</color></color>"
     },
     "TPA.toggle.disabled": {
-        "de-DE": "[grey]Du hast [era_purple]Teleport-Anfragen</color> jetzt [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have [era_purple]teleport requests</color> now [red]disabled!</color></color>"
+        "de-DE": "[grey]Du hast [blue]Teleport-Anfragen</color> jetzt [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have [blue]teleport requests</color> now [red]disabled!</color></color>"
     },
     "TPA.toggle.info": {
-        "de-DE": "[grey][era_purple][player]</color> hat [era_purple]Teleport-Anfragen</color> [red]deaktiviert!</color></color>",
-        "en-US": "[grey][era_purple][player]</color> has [era_purple]teleport requests</color> [red]disabled!</color></color>"
+        "de-DE": "[grey][blue][player]</color> hat [blue]Teleport-Anfragen</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey][blue][player]</color> has [blue]teleport requests</color> [red]disabled!</color></color>"
     }
 }
